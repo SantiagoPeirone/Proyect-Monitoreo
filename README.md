@@ -1,2 +1,2 @@
-# Proyect-Monitoreo
+# Proyecto-Monitoreo
 Monitor de recursos
