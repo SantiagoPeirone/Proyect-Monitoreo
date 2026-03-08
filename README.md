@@ -30,19 +30,33 @@ CI/CD (GitLab pipeline)
 📂 Estructura del proyecto
 Proyecto-Monitoreo
 │
+
 ├── app
+
 │   ├── app.py
+
 │   ├── requirements.txt
+
 │   └── Dockerfile
+
 │
+
 ├── docker-compose.yml
+
 │
+
 ├── tests
+
 │   └── test_app.py
+
 │
+
 ├── .gitlab-ci.yml
+
 │
+
 └── README.md
+
 ⚙️ Instalación
 
 Clonar el repositorio
